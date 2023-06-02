@@ -24,7 +24,7 @@ const baiJamjuree = BaiJamjuree({
 })
 
 export const metadata = {
-  title: 'MLW Spacetime',
+  title: 'NLW Spacetime',
   description: 'Capsula do tempo construida com Reac, NextJs e Tailwind',
 }
 
