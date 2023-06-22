@@ -108,10 +108,9 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - [SqLite](https://www.sqlite.org)
 
 ## Autor
+
 <a href="https://www.linkedin.com/in/pedrobragaresume/">
-   <img src="https://avatars.githubusercontent.com/u/111090976?v=4" width="100px;" style="border-radius: 50%;" alt=""/>
-   <br />
-   <sub><bPedro Braga</b></sub>
+   <img src="http://avatars.githubusercontent.com/u/111090976?v=4" width="100px" alt="">
 </a>
 
-[![Linkedin Badge](https://img.shields.io/badge/-Pedro-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/pedrobragaresume/)](https://www.linkedin.com/in/pedrobragaresume/)
+[![Linkedin Badge](https://img.shields.io/badge/-Pedro_Braga-blue?style=flat-square&logo=Linkedin&logoColor=white&link=[https://www.linkedin.com/in/pedrobragaresume/)](https://www.linkedin.com/in/pedrobragaresume/)
